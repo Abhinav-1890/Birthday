@@ -1,7 +1,3 @@
-## 🎉 Birthday Greeting Webpage 
-
-[https://github.com/Abhinav-1890/Birthday.git]
-
 ## 🚀 How to Use
 
 1.  **Clone Repository**
